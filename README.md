@@ -8,4 +8,4 @@ I followed book JSP STUDY for making the board. This board has writing, file upl
 * java - jdk 1.8 <br>
 * os - windows <br>
 * IDE tool - Eclipse<br>
-* Database - Oracle 5<br>
+* Database - Oracle 3<br>
