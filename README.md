@@ -10,7 +10,7 @@ The board has writing, file uploading, editing, deleting and searching functions
 * JSP <br>
 * IDE tool - Eclipse<br>
 * Database - Oracle <br>
-* Apache Tomcat <br>
+* Apache Tomcat 8.5<br>
 * Chrome
 
 <img src="https://postfiles.pstatic.net/MjAxOTA5MTFfMjkx/MDAxNTY4MTgxODM4OTk1.Q88ol1qX2ZmaZ0OEDWM-x8ZrTBBLGHSGxr6h9mJy8YQg.eMDtsyypbiDxIhz765S6l6oRXok6pWZwCeBUWNUkhWcg.JPEG.katejuyeon_/boardsystem.JPG?type=w966">
