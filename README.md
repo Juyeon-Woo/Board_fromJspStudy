@@ -7,6 +7,10 @@ The board has writing, file uploading, editing, deleting and searching functions
 <h2>Development Tool</h2>
 
 * java - jdk 1.8 <br>
-* os - windows <br>
+* JSP <br>
 * IDE tool - Eclipse<br>
-* Database - Oracle 3<br>
+* Database - Oracle <br>
+* Apache Tomcat <br>
+* Chrome
+
+<img src="https://postfiles.pstatic.net/MjAxOTA5MTFfMjkx/MDAxNTY4MTgxODM4OTk1.Q88ol1qX2ZmaZ0OEDWM-x8ZrTBBLGHSGxr6h9mJy8YQg.eMDtsyypbiDxIhz765S6l6oRXok6pWZwCeBUWNUkhWcg.JPEG.katejuyeon_/boardsystem.JPG?type=w966">
